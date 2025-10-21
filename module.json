@@ -1,0 +1,34 @@
+{
+	"id": "remove-pronouns",
+	"title": "Remove Pronouns",
+	"version": "1.0.0",
+	"compatibility": 
+	{
+		"minimum": "13",
+		"verified": "13"
+	},
+	"description": "<ul><li><p>In User Configuration, removes the Pronouns section.</p></li></ul><ul><li><p>In Pathfinder 2E, replaces \"Gender/Pronouns\" on the character sheet with a more appropriate term.</p></li></ul>",
+	"flags": 
+	{
+		"canUpload": true
+	},
+	"languages": 
+	[
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json",
+			"flags": {}
+		},
+		{
+			"lang": "ru",
+			"name": "Russian",
+			"path": "lang/ru.json",
+			"flags": {}
+		}
+	],
+	"scripts": 
+	[
+		"/scripts/commonsense.js"
+	]
+}
