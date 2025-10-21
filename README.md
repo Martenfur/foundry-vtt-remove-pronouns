@@ -10,7 +10,7 @@ Removes gender ideology from your games. :)
 1. In your Foundry VTT, go to `Setup -> Modules -> Install Module`
 2. In the `Manifest URL` textbox paste:
 ```
-https://raw.githubusercontent.com/Martenfur/foundry-vtt-remove-pronouns/refs/heads/master/module.json
+https://raw.githubusercontent.com/Martenfur/foundry-vtt-remove-pronouns/releases/latest/download/module.json
 ```
 3. Enable the `Remove Pronouns` module in your world.
 
